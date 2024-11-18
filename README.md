@@ -1,5 +1,7 @@
 **INRODUCTION**
+
 Density Based Traffic Signal System:
+
 The main concept of Density Based Traffic Signal System is to combine hardware and software components. In some cases, mechanical components are also combined to perform a specific task. It is a micro controller-based software driven real time control system. It is not a computer system which is mainly used for processing, not a software system, not a traditional business application. Generally, there are two kinds of embedded systems namely High-end embedded systems and Low-end embedded systems. Highend embedded systems deal with 32- & 64-bit controllers while Low-end embedded systems work with 8- & 16-bit controllers.
 1.It is evident through the roads that the number of vehicles are increasing rapidly.
 
